@@ -1,0 +1,17 @@
+{
+  "name": "commander-completion-test-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "bin": "dist/app.js",
+  "scripts": {
+    "build": "tsc",
+    "main": "npm run build && node dist/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.2.4"
+  }
+}

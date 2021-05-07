@@ -1,0 +1,9 @@
+
+# Exclude compiled javascript
+dist/*
+
+# Exclude node libraries
+node_modules/*
+
+# Exclude package-lock.json
+package-lock.json
